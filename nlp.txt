@@ -1,0 +1,5 @@
+NLP merit: 
+
+extracting or crawling data from web sites. 
+PDF data extraction.
+web scrapping.
